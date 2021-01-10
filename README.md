@@ -1,1 +1,1 @@
-# Choose-Your-Own-Adventure
+Do you want to rickroll your friends, but not by making them click a link which is too abvious??? Well, use this code in vscode and set up a website to prank your friends with!!! Please don't publish it in your own repositories since this is my first proper website made with python :)
